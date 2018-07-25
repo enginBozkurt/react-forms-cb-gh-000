@@ -16,7 +16,7 @@ In this lesson, we'll discuss components and how to use components to set and ge
 If you want to code along there is starter code in the `src` folder. Make sure to run `npm install && npm start` to see the code in the browser.
 
 ## Form basics
-![You'll be writing a lot of forms in React.](http://s2.quickmeme.com/img/95/95a52393032e643e9817eda6d7485cc770865ea6929278386c8e723a6ca42adc.jpg)
+
 
 Forms in React are fairly straight-forward and similar to regular HTML elements, albeit with a few changes that we need to be aware of.
 
